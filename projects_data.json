@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Java Project (College)",
+    "period": "2010–2014",
+    "description": "First software project in Java built during WBUT college years. Helped me understand programming foundations.",
+    "tech_stack": ["Java", "OOP"],
+    "context": "College (WBUT)",
+    "github_link": "https://github.com/soumik2808/java-college-project"
+  },
+  {
+    "title": "Test Automation Tool",
+    "period": "2015",
+    "description": "Automated testing/reporting for Bank of America in Accenture using Python and Selenium.",
+    "tech_stack": ["Python", "Selenium", "PyTest"],
+    "context": "Accenture – Bank of America",
+    "github_link": "https://github.com/soumik2808/test-automation-tool"
+  },
+  {
+    "title": "Django Enterprise App",
+    "period": "2016–2018",
+    "description": "Built internal enterprise systems for UCI, Oracle, and Accenture using Django and PostgreSQL.",
+    "tech_stack": ["Python", "Django", "PostgreSQL", "REST API"],
+    "context": "Accenture – UCI, Oracle, Internal",
+    "github_link": "https://github.com/soumik2808/django-enterprise-app"
+  },
+  {
+    "title": "Leave Automation Desktop App",
+    "period": "2017–2018",
+    "description": "One-click GUI tool to send leave messages via WhatsApp, Email, Telegram.",
+    "tech_stack": ["Python", "Tkinter", "smtplib", "pywhatkit"],
+    "context": "Personal project during Accenture",
+    "github_link": "https://github.com/soumik2808/leave-automation-app"
+  },
+  {
+    "title": "SIM Control App",
+    "period": "2018",
+    "description": "Android app to temporarily disable a SIM card for a defined period to reduce distractions.",
+    "tech_stack": ["Android", "Java/Kotlin"],
+    "context": "Personal project during Accenture",
+    "github_link": "https://github.com/soumik2808/sim-control-app"
+  },
+  {
+    "title": "Data Science Pipeline Project",
+    "period": "2019",
+    "description": "Data engineering and ML pipeline project representing my Great Lakes PG Certificate journey.",
+    "tech_stack": ["Python", "Pandas", "Scikit-learn", "ETL"],
+    "context": "Great Lakes DSE Program – Hyderabad",
+    "github_link": "https://github.com/soumik2808/data-science-pipeline"
+  },
+  {
+    "title": "AI Resume Tool",
+    "period": "2020",
+    "description": "Flask-based tool to score resumes based on job descriptions using NLP and sentence embeddings.",
+    "tech_stack": ["Python", "Flask", "Sentence Transformers", "Streamlit"],
+    "context": "CampK12 – EdTech startup",
+    "github_link": "https://github.com/soumik2808/ai-resume-tool"
+  },
+  {
+    "title": "EdTech Physics Game Builder",
+    "period": "2020",
+    "description": "A game-based learning tool to help kids build physics-based games while learning to code.",
+    "tech_stack": ["Python", "Pygame", "Education"],
+    "context": "CampK12 – Teaching coding during COVID",
+    "github_link": "https://github.com/soumik2808/edtech-physics-game"
+  },
+  {
+    "title": "HELP Platform",
+    "period": "2024",
+    "description": "Logs every time you help someone and optionally sends emergency photo/video help requests via WhatsApp/Email.",
+    "tech_stack": ["Python", "SQLite", "Streamlit", "Twilio", "smtplib"],
+    "context": "TFI – Based on emotional/personal experience + community visits",
+    "github_link": "https://github.com/soumik2808/help-platform"
+  },
+  {
+    "title": "Teacher Fundraising Tool",
+    "period": "2025",
+    "description": "Helps teachers and fellows raise donations online for classroom or school needs.",
+    "tech_stack": ["Python", "Flask", "Stripe", "Google Sheets API"],
+    "context": "Teach For India – Fellowship project",
+    "github_link": "https://github.com/soumik2808/teacher-fundraising-tool"
+  },
+  {
+    "title": "TFI Student AI Insight Tool",
+    "period": "2025",
+    "description": "Inputs student data → populates Google Sheet/Excel → generates descriptive, predictive, and prescriptive insights.",
+    "tech_stack": ["Python", "pandas", "gspread", "ML", "Streamlit"],
+    "context": "Teach For India – Classroom data project",
+    "github_link": "https://github.com/soumik2808/tfi-ai-insight-tool"
+  },
+  {
+    "title": "AI Micro-Solutions Video Platform",
+    "period": "2025",
+    "description": "Teachers create or reuse AI-generated short videos to solve school/classroom issues and share with parents/students.",
+    "tech_stack": ["Python", "OpenAI API", "Flask", "Video processing"],
+    "context": "Teach For India – Educational video impact tool",
+    "github_link": "https://github.com/soumik2808/ai-micro-solutions-platform"
+  }
+]
